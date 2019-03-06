@@ -9,3 +9,5 @@
 ![alt-text](dlan_ustarevchee_slovo.png)
 задание 4
 ![alt-text](jludovii_ustarevchee_slovo.png)
+задание 5 
+![alt-text](zadanie5.png)
