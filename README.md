@@ -1,3 +1,3 @@
 # HW3
 
- ![alt-text](colocatsii.png)
+ ![alt-text](collocatsii.png)
