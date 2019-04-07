@@ -12,15 +12,19 @@
 задание 1.5 
 ![alt-text](zadanie5.png)
 задание 2 устаревшее - бедство, используемое - бедствие
+
 1
 ![alt-text](bedstvo.png)
 2
-![alt-text](betstvo2.png)
+![alt-text](bedstvo2.png)
 3
 ![alt-text](bedstvo_bedstvie.png)
 4
 ![alt-text](bedstvie.png)
+5
+![alt-text](bedstvie2.png)
 задание 2 устаревшее слово - пловущий, используемое - плывущий
+
 1
 ![alt-text](plivuchii.png)
 2
@@ -32,6 +36,7 @@
 5
 ![alt-text](plo_pli.png)
 задание 2 устаревшее слово -произвесть, используемое - произвести 
+
 1
 ![alt-text](proizvest2.png)
 2
